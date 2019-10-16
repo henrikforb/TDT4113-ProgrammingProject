@@ -1,7 +1,7 @@
 # TDT4113
 Repository for the two group assignments in the subject TDT4113 - Programming Project at NTNU. Everything is written in object oriented Python
 
-* Keypad [Keypad](https://github.com/henrikforb/TDT4113/tree/master/Keypad)
+* [Keypad](https://github.com/henrikforb/TDT4113/tree/master/Keypad)
 * Robot (not made yet)
 
 ## Course content
